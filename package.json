@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "leaning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joydeep279/Typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Joydeep@279",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joydeep279/Typescript/issues"
+  },
+  "homepage": "https://github.com/Joydeep279/Typescript#readme"
+}
